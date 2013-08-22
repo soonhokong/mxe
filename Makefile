@@ -2,7 +2,7 @@
 # See index.html for further information.
 
 MXE_TARGET_LIST    := i686-pc-mingw32 x86_64-w64-mingw32 i686-w64-mingw32
-MXE_TARGETS        := i686-pc-mingw32
+MXE_TARGETS        := x86_64-w64-mingw32
 DEFAULT_MAX_JOBS   := 6
 SOURCEFORGE_MIRROR := freefr.dl.sourceforge.net
 PKG_MIRROR         := s3.amazonaws.com/mxe-pkg
